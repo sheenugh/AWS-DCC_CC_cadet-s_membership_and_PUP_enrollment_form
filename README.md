@@ -1,4 +1,4 @@
-# DCC_ask_user_and_department-s_DP_blast_and_PUP_enrollment_form
+# AWS-DCC_CC_cadet-s_membership_and_PUP_enrollment_form
 # This repository is for AWS-DCC Day 1 PythonQuest. 
 #
 # Credits/Source: https://github.com/AWSCC-PUPMNL-Cloud-Computing/15-Days-of-Python.git
